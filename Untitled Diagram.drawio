@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T19:01:08.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iyvZZowl5DJRFQxlZtD6" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T16:43:58.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PChxEBYZS0Qy2I_msQU3" version="14.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,12 @@
         <mxCell id="8MXFvRbdN8C9OlsPC_Jv-0" value="dexterity" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="8MXFvRbdN8C9OlsPC_Jv-27" value="attack" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+          <mxGeometry y="130" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXFvRbdN8C9OlsPC_Jv-21" value="max score point" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+          <mxGeometry y="156" width="160" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="8MXFvRbdN8C9OlsPC_Jv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8MXFvRbdN8C9OlsPC_Jv-8" target="8MXFvRbdN8C9OlsPC_Jv-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -58,10 +64,7 @@
         <mxCell id="8MXFvRbdN8C9OlsPC_Jv-19" value="unused score points" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8MXFvRbdN8C9OlsPC_Jv-13">
           <mxGeometry y="26" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8MXFvRbdN8C9OlsPC_Jv-21" value="max score point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="130" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8MXFvRbdN8C9OlsPC_Jv-22" value="Fight sync controller" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8MXFvRbdN8C9OlsPC_Jv-22" value="Battle screen controller" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="580" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8MXFvRbdN8C9OlsPC_Jv-23" value="player1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
